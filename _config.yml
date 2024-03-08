@@ -1,15 +1,16 @@
 # site settings
 title: Moritz Egger
 subtitle: 
-email: developer@centurio.online|moritz.j.egger@gmail.com
+email1: developer@centurio.online
+email2: moritz.j.egger@gmail.com
 description: Freelance Fullstack Software Developer by day, Open Source Enthusiast by night.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "developer.centurio.online" # the base hostname & protocol for your site
 author:
 street_address: 
-city: Wien
+city: 
 state: Wien
-zip_code: 1180
+zip_code: 
 country: Österreich
 phone: 
 
