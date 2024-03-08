@@ -4,7 +4,7 @@ subtitle:
 email: developer@centurio.online|moritz.j.egger@gmail.com
 description: Freelance Fullstack Software Developer by day, Open Source Enthusiast by night.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "developer.centurio.online" # the base hostname & protocol for your site
 author:
 street_address: 
 city: Wien
