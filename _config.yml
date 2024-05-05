@@ -10,9 +10,10 @@ author:
 street_address: 
 city: 
 state: Wien
-zip_code: 
+zip_code: 1180
 country: Österreich
 phone: 
+uid: ATU74708756
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
