@@ -2,7 +2,6 @@
 layout: post
 title: Impressum
 description: 
-image: assets/images/pic11.jpg
 nav-menu: false
 permalink: /impressum/
 ---
