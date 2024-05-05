@@ -3,9 +3,9 @@ title: Moritz Egger
 subtitle: 
 email1: developer@centurio.online
 email2: moritz.j.egger@gmail.com
-description: Freelance Fullstack Software Developer by day, Open Source Enthusiast by night.
+description: High Quality Software Development, straight from the Alps - as fresh as the snow
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "developer.centurio.online" # the base hostname & protocol for your site
+url: "https://developer.centurio.online" # the base hostname & protocol for your site
 author:
 street_address: 
 city: 
